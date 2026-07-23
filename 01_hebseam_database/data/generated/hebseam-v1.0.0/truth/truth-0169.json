@@ -1,0 +1,20 @@
+{
+  "id": "0169",
+  "split": "train",
+  "label": 1,
+  "case_type": "foreign",
+  "contrast": "exodus",
+  "block_size": 40,
+  "boundaries": [
+    241,
+    281
+  ],
+  "n_verses": 600,
+  "provenance": {
+    "host_source": "genesis",
+    "host_start": 200,
+    "host_length_before_insertion": 560,
+    "insert_source": "exodus",
+    "insert_source_start": 328
+  }
+}

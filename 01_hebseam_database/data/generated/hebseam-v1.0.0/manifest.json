@@ -1,0 +1,12 @@
+{
+  "name": "HebSeam-Controlled",
+  "version": "1.0.0",
+  "seed": 20260706,
+  "n_cases": 480,
+  "final_verses_per_case": 600,
+  "primary_task": "foreign-source splice versus continuous pure host",
+  "stress_test": "same-source sham-splice alarm rate",
+  "ground_truth_type": "controlled structural ground truth",
+  "generator": "hebseam-benchmark",
+  "checksums_file": "checksums.json"
+}

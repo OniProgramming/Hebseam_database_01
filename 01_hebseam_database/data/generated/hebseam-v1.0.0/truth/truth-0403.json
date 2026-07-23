@@ -1,0 +1,20 @@
+{
+  "id": "0403",
+  "split": "test",
+  "label": 0,
+  "case_type": "sham",
+  "contrast": "same_source",
+  "block_size": 20,
+  "boundaries": [
+    231,
+    251
+  ],
+  "n_verses": 600,
+  "provenance": {
+    "host_source": "genesis",
+    "host_start": 798,
+    "host_length_before_insertion": 580,
+    "insert_source": "genesis",
+    "insert_source_start": 1390
+  }
+}

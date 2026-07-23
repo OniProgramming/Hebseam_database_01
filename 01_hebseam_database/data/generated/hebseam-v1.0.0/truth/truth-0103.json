@@ -1,0 +1,20 @@
+{
+  "id": "0103",
+  "split": "train",
+  "label": 0,
+  "case_type": "sham",
+  "contrast": "same_source",
+  "block_size": 40,
+  "boundaries": [
+    221,
+    261
+  ],
+  "n_verses": 600,
+  "provenance": {
+    "host_source": "genesis",
+    "host_start": 60,
+    "host_length_before_insertion": 560,
+    "insert_source": "genesis",
+    "insert_source_start": 657
+  }
+}

@@ -1,0 +1,2407 @@
+{
+  "method": "transformer_dictabert_mean_shift",
+  "representation": "dicta-il/dictabert",
+  "detector": "mean_shift_W10",
+  "scores": {
+    "0000": {
+      "score": 1.6834843623329454,
+      "pred_transition": 21,
+      "pred_verse": 115
+    },
+    "0001": {
+      "score": 1.2372001761282077,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0002": {
+      "score": 1.1266960436887379,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0003": {
+      "score": 1.3729102150055144,
+      "pred_transition": 69,
+      "pred_verse": 355
+    },
+    "0004": {
+      "score": 1.1607150578061087,
+      "pred_transition": 22,
+      "pred_verse": 120
+    },
+    "0005": {
+      "score": 1.25522291087721,
+      "pred_transition": 96,
+      "pred_verse": 490
+    },
+    "0006": {
+      "score": 1.4534014080557052,
+      "pred_transition": 64,
+      "pred_verse": 330
+    },
+    "0007": {
+      "score": 1.1746450747698147,
+      "pred_transition": 45,
+      "pred_verse": 235
+    },
+    "0008": {
+      "score": 1.5360793912851896,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0009": {
+      "score": 1.2997602677583597,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0010": {
+      "score": 1.133909184563794,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0011": {
+      "score": 1.2674595862470839,
+      "pred_transition": 73,
+      "pred_verse": 375
+    },
+    "0012": {
+      "score": 1.2197079289625536,
+      "pred_transition": 31,
+      "pred_verse": 165
+    },
+    "0013": {
+      "score": 1.208915114320769,
+      "pred_transition": 50,
+      "pred_verse": 260
+    },
+    "0014": {
+      "score": 1.2452219704594265,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0015": {
+      "score": 1.2466417265777123,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0016": {
+      "score": 1.1365967355406807,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0017": {
+      "score": 1.2304761509678523,
+      "pred_transition": 100,
+      "pred_verse": 510
+    },
+    "0018": {
+      "score": 1.1489354459651295,
+      "pred_transition": 57,
+      "pred_verse": 295
+    },
+    "0019": {
+      "score": 1.3284637630008196,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0020": {
+      "score": 1.2123986071439072,
+      "pred_transition": 103,
+      "pred_verse": 525
+    },
+    "0021": {
+      "score": 1.308812429015489,
+      "pred_transition": 20,
+      "pred_verse": 110
+    },
+    "0022": {
+      "score": 1.150617798042253,
+      "pred_transition": 44,
+      "pred_verse": 230
+    },
+    "0023": {
+      "score": 1.1800058489748795,
+      "pred_transition": 98,
+      "pred_verse": 500
+    },
+    "0024": {
+      "score": 1.178292720457069,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0025": {
+      "score": 1.2438755187420627,
+      "pred_transition": 88,
+      "pred_verse": 450
+    },
+    "0026": {
+      "score": 1.2034506063335213,
+      "pred_transition": 65,
+      "pred_verse": 335
+    },
+    "0027": {
+      "score": 1.1095270913902175,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0028": {
+      "score": 1.2685308070559411,
+      "pred_transition": 92,
+      "pred_verse": 470
+    },
+    "0029": {
+      "score": 1.1628617589229688,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0030": {
+      "score": 1.3391381928849706,
+      "pred_transition": 81,
+      "pred_verse": 415
+    },
+    "0031": {
+      "score": 1.3862868179130168,
+      "pred_transition": 32,
+      "pred_verse": 170
+    },
+    "0032": {
+      "score": 1.2690043556595019,
+      "pred_transition": 29,
+      "pred_verse": 155
+    },
+    "0033": {
+      "score": 1.161696246122683,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0034": {
+      "score": 1.424142163757778,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0035": {
+      "score": 1.1788069161283568,
+      "pred_transition": 105,
+      "pred_verse": 535
+    },
+    "0036": {
+      "score": 1.1113317308300175,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0037": {
+      "score": 1.7163662796856005,
+      "pred_transition": 88,
+      "pred_verse": 450
+    },
+    "0038": {
+      "score": 1.3017995877560697,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0039": {
+      "score": 1.3558302436427598,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0040": {
+      "score": 1.4862720970636871,
+      "pred_transition": 75,
+      "pred_verse": 385
+    },
+    "0041": {
+      "score": 1.261873811022681,
+      "pred_transition": 91,
+      "pred_verse": 465
+    },
+    "0042": {
+      "score": 1.3113512211889435,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0043": {
+      "score": 1.654457720909428,
+      "pred_transition": 37,
+      "pred_verse": 195
+    },
+    "0044": {
+      "score": 1.1739921249933105,
+      "pred_transition": 77,
+      "pred_verse": 395
+    },
+    "0045": {
+      "score": 1.7013066529093175,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0046": {
+      "score": 1.0596580323666713,
+      "pred_transition": 61,
+      "pred_verse": 315
+    },
+    "0047": {
+      "score": 1.2047273895285049,
+      "pred_transition": 77,
+      "pred_verse": 395
+    },
+    "0048": {
+      "score": 1.1277147476641032,
+      "pred_transition": 82,
+      "pred_verse": 420
+    },
+    "0049": {
+      "score": 1.1825704618034238,
+      "pred_transition": 54,
+      "pred_verse": 280
+    },
+    "0050": {
+      "score": 1.4435782672836717,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0051": {
+      "score": 1.2740037283879757,
+      "pred_transition": 100,
+      "pred_verse": 510
+    },
+    "0052": {
+      "score": 1.111780895819872,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0053": {
+      "score": 1.161609458262955,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0054": {
+      "score": 1.0133202103377181,
+      "pred_transition": 73,
+      "pred_verse": 375
+    },
+    "0055": {
+      "score": 1.1148203098085596,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0056": {
+      "score": 1.1989231732325603,
+      "pred_transition": 47,
+      "pred_verse": 245
+    },
+    "0057": {
+      "score": 1.2330804719442425,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0058": {
+      "score": 1.5042381518975727,
+      "pred_transition": 46,
+      "pred_verse": 240
+    },
+    "0059": {
+      "score": 1.129101286977968,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0060": {
+      "score": 1.348171052394438,
+      "pred_transition": 65,
+      "pred_verse": 335
+    },
+    "0061": {
+      "score": 1.0161191236989375,
+      "pred_transition": 73,
+      "pred_verse": 375
+    },
+    "0062": {
+      "score": 1.1244479944475612,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0063": {
+      "score": 1.1450569960445527,
+      "pred_transition": 91,
+      "pred_verse": 465
+    },
+    "0064": {
+      "score": 1.087160431077241,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0065": {
+      "score": 0.9940789499333909,
+      "pred_transition": 40,
+      "pred_verse": 210
+    },
+    "0066": {
+      "score": 1.309519717564967,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0067": {
+      "score": 1.0242684850302544,
+      "pred_transition": 81,
+      "pred_verse": 415
+    },
+    "0068": {
+      "score": 1.2720513519009833,
+      "pred_transition": 75,
+      "pred_verse": 385
+    },
+    "0069": {
+      "score": 1.3544788949206805,
+      "pred_transition": 51,
+      "pred_verse": 265
+    },
+    "0070": {
+      "score": 1.4148745405309793,
+      "pred_transition": 27,
+      "pred_verse": 145
+    },
+    "0071": {
+      "score": 1.2787248834516183,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0072": {
+      "score": 1.2479030949310228,
+      "pred_transition": 48,
+      "pred_verse": 250
+    },
+    "0073": {
+      "score": 1.0969188960706777,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0074": {
+      "score": 1.4525472093082672,
+      "pred_transition": 82,
+      "pred_verse": 420
+    },
+    "0075": {
+      "score": 1.2116031738730777,
+      "pred_transition": 88,
+      "pred_verse": 450
+    },
+    "0076": {
+      "score": 1.101960731832476,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0077": {
+      "score": 1.0111161326127733,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0078": {
+      "score": 1.1648374216911044,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0079": {
+      "score": 1.1150297795545283,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0080": {
+      "score": 1.2590230790931152,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0081": {
+      "score": 1.2175357639176625,
+      "pred_transition": 98,
+      "pred_verse": 500
+    },
+    "0082": {
+      "score": 1.1788069161283568,
+      "pred_transition": 105,
+      "pred_verse": 535
+    },
+    "0083": {
+      "score": 1.2099659087970658,
+      "pred_transition": 69,
+      "pred_verse": 355
+    },
+    "0084": {
+      "score": 1.4539981550976167,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0085": {
+      "score": 1.153159310550975,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0086": {
+      "score": 1.2609265664745493,
+      "pred_transition": 51,
+      "pred_verse": 265
+    },
+    "0087": {
+      "score": 0.9973741502290273,
+      "pred_transition": 78,
+      "pred_verse": 400
+    },
+    "0088": {
+      "score": 1.147565526274739,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0089": {
+      "score": 1.479683478341034,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0090": {
+      "score": 1.166031559482275,
+      "pred_transition": 66,
+      "pred_verse": 340
+    },
+    "0091": {
+      "score": 1.1307345094532288,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0092": {
+      "score": 1.0506997661008897,
+      "pred_transition": 64,
+      "pred_verse": 330
+    },
+    "0093": {
+      "score": 1.2744377188781812,
+      "pred_transition": 78,
+      "pred_verse": 400
+    },
+    "0094": {
+      "score": 1.0259922170307068,
+      "pred_transition": 80,
+      "pred_verse": 410
+    },
+    "0095": {
+      "score": 1.1232153576007282,
+      "pred_transition": 91,
+      "pred_verse": 465
+    },
+    "0096": {
+      "score": 1.3736326507906709,
+      "pred_transition": 49,
+      "pred_verse": 255
+    },
+    "0097": {
+      "score": 1.3390096987593185,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0098": {
+      "score": 1.2293179666705782,
+      "pred_transition": 50,
+      "pred_verse": 260
+    },
+    "0099": {
+      "score": 1.2250064372712495,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0100": {
+      "score": 1.228955956675374,
+      "pred_transition": 34,
+      "pred_verse": 180
+    },
+    "0101": {
+      "score": 0.9991955466718181,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0102": {
+      "score": 1.35542451132402,
+      "pred_transition": 85,
+      "pred_verse": 435
+    },
+    "0103": {
+      "score": 1.0138886297710075,
+      "pred_transition": 79,
+      "pred_verse": 405
+    },
+    "0104": {
+      "score": 1.4700717054623438,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0105": {
+      "score": 1.276692347473129,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0106": {
+      "score": 1.2366562124380194,
+      "pred_transition": 96,
+      "pred_verse": 490
+    },
+    "0107": {
+      "score": 0.9994431129408798,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0108": {
+      "score": 1.5376006567175997,
+      "pred_transition": 75,
+      "pred_verse": 385
+    },
+    "0109": {
+      "score": 1.4265971369542954,
+      "pred_transition": 51,
+      "pred_verse": 265
+    },
+    "0110": {
+      "score": 1.2197811210113216,
+      "pred_transition": 71,
+      "pred_verse": 365
+    },
+    "0111": {
+      "score": 1.1904024099897954,
+      "pred_transition": 77,
+      "pred_verse": 395
+    },
+    "0112": {
+      "score": 1.2075228908811626,
+      "pred_transition": 101,
+      "pred_verse": 515
+    },
+    "0113": {
+      "score": 0.990044962026598,
+      "pred_transition": 39,
+      "pred_verse": 205
+    },
+    "0114": {
+      "score": 1.160401671458618,
+      "pred_transition": 54,
+      "pred_verse": 280
+    },
+    "0115": {
+      "score": 1.387908958481866,
+      "pred_transition": 37,
+      "pred_verse": 195
+    },
+    "0116": {
+      "score": 1.2167086580327335,
+      "pred_transition": 98,
+      "pred_verse": 500
+    },
+    "0117": {
+      "score": 1.2144797606748514,
+      "pred_transition": 99,
+      "pred_verse": 505
+    },
+    "0118": {
+      "score": 1.328696748999957,
+      "pred_transition": 78,
+      "pred_verse": 400
+    },
+    "0119": {
+      "score": 1.0030914798136932,
+      "pred_transition": 79,
+      "pred_verse": 405
+    },
+    "0120": {
+      "score": 1.0030083152191847,
+      "pred_transition": 39,
+      "pred_verse": 205
+    },
+    "0121": {
+      "score": 1.3849298803678936,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0122": {
+      "score": 1.5720097860063993,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0123": {
+      "score": 1.59187060877523,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0124": {
+      "score": 1.1369763628472476,
+      "pred_transition": 62,
+      "pred_verse": 320
+    },
+    "0125": {
+      "score": 1.2456310802203951,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0126": {
+      "score": 1.0073652121540704,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0127": {
+      "score": 1.4111443798767334,
+      "pred_transition": 19,
+      "pred_verse": 105
+    },
+    "0128": {
+      "score": 1.6490788072742126,
+      "pred_transition": 29,
+      "pred_verse": 155
+    },
+    "0129": {
+      "score": 1.6107292955950028,
+      "pred_transition": 62,
+      "pred_verse": 320
+    },
+    "0130": {
+      "score": 1.6210259081047411,
+      "pred_transition": 57,
+      "pred_verse": 295
+    },
+    "0131": {
+      "score": 1.6458550514053814,
+      "pred_transition": 34,
+      "pred_verse": 180
+    },
+    "0132": {
+      "score": 1.229851546811882,
+      "pred_transition": 98,
+      "pred_verse": 500
+    },
+    "0133": {
+      "score": 1.2479705403006889,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0134": {
+      "score": 1.117786846680573,
+      "pred_transition": 67,
+      "pred_verse": 345
+    },
+    "0135": {
+      "score": 1.136020234930109,
+      "pred_transition": 33,
+      "pred_verse": 175
+    },
+    "0136": {
+      "score": 1.160591339904378,
+      "pred_transition": 35,
+      "pred_verse": 185
+    },
+    "0137": {
+      "score": 0.9837854830030941,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0138": {
+      "score": 1.160401671458618,
+      "pred_transition": 54,
+      "pred_verse": 280
+    },
+    "0139": {
+      "score": 1.1273356060005517,
+      "pred_transition": 29,
+      "pred_verse": 155
+    },
+    "0140": {
+      "score": 1.2558055397674113,
+      "pred_transition": 29,
+      "pred_verse": 155
+    },
+    "0141": {
+      "score": 1.1995466988383314,
+      "pred_transition": 64,
+      "pred_verse": 330
+    },
+    "0142": {
+      "score": 1.3569717101227499,
+      "pred_transition": 54,
+      "pred_verse": 280
+    },
+    "0143": {
+      "score": 1.3526197835095943,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0144": {
+      "score": 1.1785159378502295,
+      "pred_transition": 50,
+      "pred_verse": 260
+    },
+    "0145": {
+      "score": 1.087160431077241,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0146": {
+      "score": 1.178206039413917,
+      "pred_transition": 75,
+      "pred_verse": 385
+    },
+    "0147": {
+      "score": 1.2015924975205179,
+      "pred_transition": 99,
+      "pred_verse": 505
+    },
+    "0148": {
+      "score": 1.223068605516687,
+      "pred_transition": 61,
+      "pred_verse": 315
+    },
+    "0149": {
+      "score": 1.2898842029896522,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0150": {
+      "score": 1.2275421884279303,
+      "pred_transition": 46,
+      "pred_verse": 240
+    },
+    "0151": {
+      "score": 1.295619020014278,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0152": {
+      "score": 1.2699415594461307,
+      "pred_transition": 84,
+      "pred_verse": 430
+    },
+    "0153": {
+      "score": 1.3567569140197793,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0154": {
+      "score": 1.2435303849748705,
+      "pred_transition": 54,
+      "pred_verse": 280
+    },
+    "0155": {
+      "score": 1.4809381896421518,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0156": {
+      "score": 1.1263410350344634,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0157": {
+      "score": 1.135282568455107,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0158": {
+      "score": 1.22410607990296,
+      "pred_transition": 96,
+      "pred_verse": 490
+    },
+    "0159": {
+      "score": 1.3105074320486314,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0160": {
+      "score": 1.2413631682667021,
+      "pred_transition": 101,
+      "pred_verse": 515
+    },
+    "0161": {
+      "score": 1.2657232017857518,
+      "pred_transition": 26,
+      "pred_verse": 140
+    },
+    "0162": {
+      "score": 1.2306199703530003,
+      "pred_transition": 88,
+      "pred_verse": 450
+    },
+    "0163": {
+      "score": 1.2196895128727654,
+      "pred_transition": 97,
+      "pred_verse": 495
+    },
+    "0164": {
+      "score": 1.1676031994159115,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0165": {
+      "score": 1.1044636470540004,
+      "pred_transition": 47,
+      "pred_verse": 245
+    },
+    "0166": {
+      "score": 1.2726666724111109,
+      "pred_transition": 44,
+      "pred_verse": 230
+    },
+    "0167": {
+      "score": 1.0327790079862869,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0168": {
+      "score": 1.1476063316587526,
+      "pred_transition": 57,
+      "pred_verse": 295
+    },
+    "0169": {
+      "score": 1.1404632664946885,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0170": {
+      "score": 1.1149025251163716,
+      "pred_transition": 57,
+      "pred_verse": 295
+    },
+    "0171": {
+      "score": 1.1251118666501068,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0172": {
+      "score": 1.1343108688975378,
+      "pred_transition": 67,
+      "pred_verse": 345
+    },
+    "0173": {
+      "score": 1.3539736271873979,
+      "pred_transition": 75,
+      "pred_verse": 385
+    },
+    "0174": {
+      "score": 1.435816356985728,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0175": {
+      "score": 1.2930769336820924,
+      "pred_transition": 100,
+      "pred_verse": 510
+    },
+    "0176": {
+      "score": 1.279405482296839,
+      "pred_transition": 62,
+      "pred_verse": 320
+    },
+    "0177": {
+      "score": 1.2283410012187508,
+      "pred_transition": 50,
+      "pred_verse": 260
+    },
+    "0178": {
+      "score": 1.0075965682859642,
+      "pred_transition": 73,
+      "pred_verse": 375
+    },
+    "0179": {
+      "score": 1.2438755187420627,
+      "pred_transition": 88,
+      "pred_verse": 450
+    },
+    "0180": {
+      "score": 1.1999610394163691,
+      "pred_transition": 43,
+      "pred_verse": 225
+    },
+    "0181": {
+      "score": 1.2141740192487371,
+      "pred_transition": 99,
+      "pred_verse": 505
+    },
+    "0182": {
+      "score": 1.2510600822308475,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0183": {
+      "score": 1.1253396988469868,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0184": {
+      "score": 1.2344134043797839,
+      "pred_transition": 95,
+      "pred_verse": 485
+    },
+    "0185": {
+      "score": 1.1221620601176554,
+      "pred_transition": 91,
+      "pred_verse": 465
+    },
+    "0186": {
+      "score": 1.2808839887304706,
+      "pred_transition": 64,
+      "pred_verse": 330
+    },
+    "0187": {
+      "score": 1.2201475470511176,
+      "pred_transition": 100,
+      "pred_verse": 510
+    },
+    "0188": {
+      "score": 1.53596099305983,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0189": {
+      "score": 1.4601938148594058,
+      "pred_transition": 85,
+      "pred_verse": 435
+    },
+    "0190": {
+      "score": 1.5070519015008408,
+      "pred_transition": 92,
+      "pred_verse": 470
+    },
+    "0191": {
+      "score": 1.0123206124675066,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0192": {
+      "score": 1.260947822775082,
+      "pred_transition": 61,
+      "pred_verse": 315
+    },
+    "0193": {
+      "score": 1.1909501372386322,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0194": {
+      "score": 1.1293516596398974,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0195": {
+      "score": 1.30483765732858,
+      "pred_transition": 71,
+      "pred_verse": 365
+    },
+    "0196": {
+      "score": 0.9940789499333909,
+      "pred_transition": 40,
+      "pred_verse": 210
+    },
+    "0197": {
+      "score": 1.139314006482086,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0198": {
+      "score": 1.2750936169397682,
+      "pred_transition": 97,
+      "pred_verse": 495
+    },
+    "0199": {
+      "score": 0.9991955466718181,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0200": {
+      "score": 1.066284375859347,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0201": {
+      "score": 1.3317591023045838,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0202": {
+      "score": 1.1725435141727745,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0203": {
+      "score": 1.0131175641459877,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0204": {
+      "score": 1.293727323213781,
+      "pred_transition": 66,
+      "pred_verse": 340
+    },
+    "0205": {
+      "score": 1.2263631503741106,
+      "pred_transition": 36,
+      "pred_verse": 190
+    },
+    "0206": {
+      "score": 1.1187407141892565,
+      "pred_transition": 57,
+      "pred_verse": 295
+    },
+    "0207": {
+      "score": 1.2097247671028966,
+      "pred_transition": 19,
+      "pred_verse": 105
+    },
+    "0208": {
+      "score": 1.2959670226693483,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0209": {
+      "score": 1.2459102155783628,
+      "pred_transition": 88,
+      "pred_verse": 450
+    },
+    "0210": {
+      "score": 1.292217274850615,
+      "pred_transition": 36,
+      "pred_verse": 190
+    },
+    "0211": {
+      "score": 1.5692907498291953,
+      "pred_transition": 62,
+      "pred_verse": 320
+    },
+    "0212": {
+      "score": 1.1516441257599088,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0213": {
+      "score": 1.2526375532349723,
+      "pred_transition": 71,
+      "pred_verse": 365
+    },
+    "0214": {
+      "score": 1.2250776315923537,
+      "pred_transition": 43,
+      "pred_verse": 225
+    },
+    "0215": {
+      "score": 1.223773581244643,
+      "pred_transition": 94,
+      "pred_verse": 480
+    },
+    "0216": {
+      "score": 1.3573281217852515,
+      "pred_transition": 77,
+      "pred_verse": 395
+    },
+    "0217": {
+      "score": 1.1187760358015826,
+      "pred_transition": 62,
+      "pred_verse": 320
+    },
+    "0218": {
+      "score": 1.2346342476177365,
+      "pred_transition": 50,
+      "pred_verse": 260
+    },
+    "0219": {
+      "score": 1.532581350784148,
+      "pred_transition": 66,
+      "pred_verse": 340
+    },
+    "0220": {
+      "score": 1.21388171078403,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0221": {
+      "score": 1.1545701060547737,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0222": {
+      "score": 1.2550710598950643,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0223": {
+      "score": 1.1889638642038576,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0224": {
+      "score": 1.251594993786847,
+      "pred_transition": 35,
+      "pred_verse": 185
+    },
+    "0225": {
+      "score": 1.3027518067214163,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0226": {
+      "score": 1.253151063452436,
+      "pred_transition": 96,
+      "pred_verse": 490
+    },
+    "0227": {
+      "score": 1.2024462813436383,
+      "pred_transition": 102,
+      "pred_verse": 520
+    },
+    "0228": {
+      "score": 1.307575883996903,
+      "pred_transition": 31,
+      "pred_verse": 165
+    },
+    "0229": {
+      "score": 1.2255446012384195,
+      "pred_transition": 98,
+      "pred_verse": 500
+    },
+    "0230": {
+      "score": 1.1025029667408996,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0231": {
+      "score": 1.0746995089974491,
+      "pred_transition": 43,
+      "pred_verse": 225
+    },
+    "0232": {
+      "score": 1.100761812680763,
+      "pred_transition": 88,
+      "pred_verse": 450
+    },
+    "0233": {
+      "score": 1.478495784385721,
+      "pred_transition": 84,
+      "pred_verse": 430
+    },
+    "0234": {
+      "score": 1.3590309337037028,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0235": {
+      "score": 1.2440634025017967,
+      "pred_transition": 95,
+      "pred_verse": 485
+    },
+    "0236": {
+      "score": 1.1366181239448947,
+      "pred_transition": 32,
+      "pred_verse": 170
+    },
+    "0237": {
+      "score": 1.201799054881903,
+      "pred_transition": 66,
+      "pred_verse": 340
+    },
+    "0238": {
+      "score": 1.2709552163478184,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0239": {
+      "score": 1.3631138072962945,
+      "pred_transition": 72,
+      "pred_verse": 370
+    },
+    "0240": {
+      "score": 1.0111161326127733,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0241": {
+      "score": 1.2572243819778954,
+      "pred_transition": 37,
+      "pred_verse": 195
+    },
+    "0242": {
+      "score": 1.3603357764561697,
+      "pred_transition": 51,
+      "pred_verse": 265
+    },
+    "0243": {
+      "score": 1.1038718990299445,
+      "pred_transition": 30,
+      "pred_verse": 160
+    },
+    "0244": {
+      "score": 1.1984882124419847,
+      "pred_transition": 103,
+      "pred_verse": 525
+    },
+    "0245": {
+      "score": 1.1665147689242001,
+      "pred_transition": 107,
+      "pred_verse": 545
+    },
+    "0246": {
+      "score": 1.125947087707549,
+      "pred_transition": 65,
+      "pred_verse": 335
+    },
+    "0247": {
+      "score": 1.3850724989353411,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0248": {
+      "score": 1.0512760989028809,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0249": {
+      "score": 1.207422654005235,
+      "pred_transition": 23,
+      "pred_verse": 125
+    },
+    "0250": {
+      "score": 1.1160236384298339,
+      "pred_transition": 92,
+      "pred_verse": 470
+    },
+    "0251": {
+      "score": 1.1164005077281147,
+      "pred_transition": 40,
+      "pred_verse": 210
+    },
+    "0252": {
+      "score": 1.5719361938421477,
+      "pred_transition": 69,
+      "pred_verse": 355
+    },
+    "0253": {
+      "score": 1.1732469382145663,
+      "pred_transition": 75,
+      "pred_verse": 385
+    },
+    "0254": {
+      "score": 1.2708820255638957,
+      "pred_transition": 73,
+      "pred_verse": 375
+    },
+    "0255": {
+      "score": 1.0090885021463072,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0256": {
+      "score": 1.2363683058052355,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0257": {
+      "score": 1.4158996686531733,
+      "pred_transition": 95,
+      "pred_verse": 485
+    },
+    "0258": {
+      "score": 1.3571770928549673,
+      "pred_transition": 65,
+      "pred_verse": 335
+    },
+    "0259": {
+      "score": 1.22410607990296,
+      "pred_transition": 96,
+      "pred_verse": 490
+    },
+    "0260": {
+      "score": 1.3613681804775581,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0261": {
+      "score": 1.0596232179317078,
+      "pred_transition": 69,
+      "pred_verse": 355
+    },
+    "0262": {
+      "score": 1.2747764238150459,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0263": {
+      "score": 0.99186547427644,
+      "pred_transition": 79,
+      "pred_verse": 405
+    },
+    "0264": {
+      "score": 1.124320912691837,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0265": {
+      "score": 1.151148614870259,
+      "pred_transition": 70,
+      "pred_verse": 360
+    },
+    "0266": {
+      "score": 1.17727624789796,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0267": {
+      "score": 1.1861753309604386,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0268": {
+      "score": 1.4242941321728726,
+      "pred_transition": 45,
+      "pred_verse": 235
+    },
+    "0269": {
+      "score": 1.371660073323803,
+      "pred_transition": 43,
+      "pred_verse": 225
+    },
+    "0270": {
+      "score": 1.194304957557434,
+      "pred_transition": 46,
+      "pred_verse": 240
+    },
+    "0271": {
+      "score": 1.2394410357335501,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0272": {
+      "score": 1.2393957564000688,
+      "pred_transition": 95,
+      "pred_verse": 485
+    },
+    "0273": {
+      "score": 1.2343363149617546,
+      "pred_transition": 85,
+      "pred_verse": 435
+    },
+    "0274": {
+      "score": 1.1365967355406807,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0275": {
+      "score": 1.014561355759713,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0276": {
+      "score": 1.0083420173692144,
+      "pred_transition": 40,
+      "pred_verse": 210
+    },
+    "0277": {
+      "score": 1.1941662267443793,
+      "pred_transition": 104,
+      "pred_verse": 530
+    },
+    "0278": {
+      "score": 1.2710724161141742,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0279": {
+      "score": 1.3635127902814748,
+      "pred_transition": 34,
+      "pred_verse": 180
+    },
+    "0280": {
+      "score": 1.1299971106767683,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0281": {
+      "score": 1.2162393543880274,
+      "pred_transition": 70,
+      "pred_verse": 360
+    },
+    "0282": {
+      "score": 1.1450405060128075,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0283": {
+      "score": 1.114250705753221,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0284": {
+      "score": 1.3078990987539898,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0285": {
+      "score": 1.2465208503125944,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0286": {
+      "score": 1.1711135195158642,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0287": {
+      "score": 1.3695214989955677,
+      "pred_transition": 35,
+      "pred_verse": 185
+    },
+    "0288": {
+      "score": 1.2562844261151178,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0289": {
+      "score": 1.2803934901657197,
+      "pred_transition": 78,
+      "pred_verse": 400
+    },
+    "0290": {
+      "score": 1.29646401441577,
+      "pred_transition": 21,
+      "pred_verse": 115
+    },
+    "0291": {
+      "score": 1.318605277473442,
+      "pred_transition": 45,
+      "pred_verse": 235
+    },
+    "0292": {
+      "score": 1.032288207755522,
+      "pred_transition": 70,
+      "pred_verse": 360
+    },
+    "0293": {
+      "score": 1.5818331713206626,
+      "pred_transition": 20,
+      "pred_verse": 110
+    },
+    "0294": {
+      "score": 0.9980063577545193,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0295": {
+      "score": 1.1237275785038578,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0296": {
+      "score": 1.0209428518526058,
+      "pred_transition": 72,
+      "pred_verse": 370
+    },
+    "0297": {
+      "score": 1.2478896967312194,
+      "pred_transition": 86,
+      "pred_verse": 440
+    },
+    "0298": {
+      "score": 1.0616946236678895,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0299": {
+      "score": 1.064119126246391,
+      "pred_transition": 71,
+      "pred_verse": 365
+    },
+    "0300": {
+      "score": 1.2140551494684853,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0301": {
+      "score": 1.2065757188365753,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0302": {
+      "score": 1.1847726700810435,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0303": {
+      "score": 1.4304865038962813,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0304": {
+      "score": 1.1382217946466162,
+      "pred_transition": 14,
+      "pred_verse": 80
+    },
+    "0305": {
+      "score": 1.1378132098341127,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0306": {
+      "score": 1.1351785070732712,
+      "pred_transition": 61,
+      "pred_verse": 315
+    },
+    "0307": {
+      "score": 1.5086023662134451,
+      "pred_transition": 45,
+      "pred_verse": 235
+    },
+    "0308": {
+      "score": 1.2715916766771975,
+      "pred_transition": 39,
+      "pred_verse": 205
+    },
+    "0309": {
+      "score": 1.1279280130716902,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0310": {
+      "score": 1.0668260944820742,
+      "pred_transition": 31,
+      "pred_verse": 165
+    },
+    "0311": {
+      "score": 1.1227030814930794,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0312": {
+      "score": 1.262965314754753,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0313": {
+      "score": 1.3158543050739666,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0314": {
+      "score": 1.2543340548507442,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0315": {
+      "score": 1.3693482559891201,
+      "pred_transition": 61,
+      "pred_verse": 315
+    },
+    "0316": {
+      "score": 1.2525663342093736,
+      "pred_transition": 31,
+      "pred_verse": 165
+    },
+    "0317": {
+      "score": 1.2709552163478184,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0318": {
+      "score": 1.016941045140942,
+      "pred_transition": 106,
+      "pred_verse": 540
+    },
+    "0319": {
+      "score": 1.2576651276824393,
+      "pred_transition": 43,
+      "pred_verse": 225
+    },
+    "0320": {
+      "score": 1.211122965436684,
+      "pred_transition": 98,
+      "pred_verse": 500
+    },
+    "0321": {
+      "score": 1.0283790274185103,
+      "pred_transition": 43,
+      "pred_verse": 225
+    },
+    "0322": {
+      "score": 1.4446410217363466,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0323": {
+      "score": 1.0369801302095922,
+      "pred_transition": 65,
+      "pred_verse": 335
+    },
+    "0324": {
+      "score": 1.2823141990891969,
+      "pred_transition": 54,
+      "pred_verse": 280
+    },
+    "0325": {
+      "score": 1.0765557223795117,
+      "pred_transition": 61,
+      "pred_verse": 315
+    },
+    "0326": {
+      "score": 1.5944681917713968,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0327": {
+      "score": 1.2478340768340377,
+      "pred_transition": 24,
+      "pred_verse": 130
+    },
+    "0328": {
+      "score": 1.564553139538279,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0329": {
+      "score": 1.376975669108613,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0330": {
+      "score": 1.3567656583990813,
+      "pred_transition": 51,
+      "pred_verse": 265
+    },
+    "0331": {
+      "score": 1.0309204446315776,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0332": {
+      "score": 1.1166766644335848,
+      "pred_transition": 77,
+      "pred_verse": 395
+    },
+    "0333": {
+      "score": 1.1312016901566824,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0334": {
+      "score": 1.2359177804463284,
+      "pred_transition": 64,
+      "pred_verse": 330
+    },
+    "0335": {
+      "score": 1.0932561757563268,
+      "pred_transition": 62,
+      "pred_verse": 320
+    },
+    "0336": {
+      "score": 1.1744031005476685,
+      "pred_transition": 107,
+      "pred_verse": 545
+    },
+    "0337": {
+      "score": 1.0350948926782524,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0338": {
+      "score": 1.2439824411119456,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0339": {
+      "score": 1.2433870193655479,
+      "pred_transition": 92,
+      "pred_verse": 470
+    },
+    "0340": {
+      "score": 1.426132480111468,
+      "pred_transition": 66,
+      "pred_verse": 340
+    },
+    "0341": {
+      "score": 1.4955745075237292,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0342": {
+      "score": 1.1310954955964128,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0343": {
+      "score": 1.181746816263536,
+      "pred_transition": 50,
+      "pred_verse": 260
+    },
+    "0344": {
+      "score": 1.2042421200307376,
+      "pred_transition": 104,
+      "pred_verse": 530
+    },
+    "0345": {
+      "score": 1.302214942255727,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0346": {
+      "score": 1.240145778069715,
+      "pred_transition": 100,
+      "pred_verse": 510
+    },
+    "0347": {
+      "score": 1.291406788609932,
+      "pred_transition": 90,
+      "pred_verse": 460
+    },
+    "0348": {
+      "score": 1.0090885021463072,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0349": {
+      "score": 1.3338823735003444,
+      "pred_transition": 54,
+      "pred_verse": 280
+    },
+    "0350": {
+      "score": 1.354183896091067,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0351": {
+      "score": 1.2277825321399143,
+      "pred_transition": 36,
+      "pred_verse": 190
+    },
+    "0352": {
+      "score": 1.2405779275119526,
+      "pred_transition": 51,
+      "pred_verse": 265
+    },
+    "0353": {
+      "score": 1.2477958299341008,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0354": {
+      "score": 1.166322246238024,
+      "pred_transition": 29,
+      "pred_verse": 155
+    },
+    "0355": {
+      "score": 1.0445499139404204,
+      "pred_transition": 66,
+      "pred_verse": 340
+    },
+    "0356": {
+      "score": 1.109101235899383,
+      "pred_transition": 64,
+      "pred_verse": 330
+    },
+    "0357": {
+      "score": 1.2692286832890947,
+      "pred_transition": 34,
+      "pred_verse": 180
+    },
+    "0358": {
+      "score": 1.0738776200116682,
+      "pred_transition": 62,
+      "pred_verse": 320
+    },
+    "0359": {
+      "score": 1.251573939485175,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0360": {
+      "score": 1.3349093607514386,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0361": {
+      "score": 1.2191416391440462,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0362": {
+      "score": 1.2586551474130379,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0363": {
+      "score": 1.4206704504046743,
+      "pred_transition": 34,
+      "pred_verse": 180
+    },
+    "0364": {
+      "score": 1.187316286658572,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0365": {
+      "score": 1.0208128301972503,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0366": {
+      "score": 1.233578092737631,
+      "pred_transition": 91,
+      "pred_verse": 465
+    },
+    "0367": {
+      "score": 1.4793813468248858,
+      "pred_transition": 80,
+      "pred_verse": 410
+    },
+    "0368": {
+      "score": 1.2968231944787803,
+      "pred_transition": 31,
+      "pred_verse": 165
+    },
+    "0369": {
+      "score": 1.3734062045187756,
+      "pred_transition": 88,
+      "pred_verse": 450
+    },
+    "0370": {
+      "score": 1.2337416606023772,
+      "pred_transition": 104,
+      "pred_verse": 530
+    },
+    "0371": {
+      "score": 1.271094635688626,
+      "pred_transition": 41,
+      "pred_verse": 215
+    },
+    "0372": {
+      "score": 1.2407995930015667,
+      "pred_transition": 94,
+      "pred_verse": 480
+    },
+    "0373": {
+      "score": 1.2489128415593898,
+      "pred_transition": 91,
+      "pred_verse": 465
+    },
+    "0374": {
+      "score": 1.1994378201051776,
+      "pred_transition": 36,
+      "pred_verse": 190
+    },
+    "0375": {
+      "score": 1.0004074026510916,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0376": {
+      "score": 1.240746411611775,
+      "pred_transition": 86,
+      "pred_verse": 440
+    },
+    "0377": {
+      "score": 1.3564483626255572,
+      "pred_transition": 75,
+      "pred_verse": 385
+    },
+    "0378": {
+      "score": 1.1119644133723823,
+      "pred_transition": 48,
+      "pred_verse": 250
+    },
+    "0379": {
+      "score": 1.3975273213631474,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0380": {
+      "score": 1.173470408754415,
+      "pred_transition": 97,
+      "pred_verse": 495
+    },
+    "0381": {
+      "score": 1.0081358795688364,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0382": {
+      "score": 1.1360227279110753,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0383": {
+      "score": 1.2947470328314632,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0384": {
+      "score": 1.4479758574416859,
+      "pred_transition": 22,
+      "pred_verse": 120
+    },
+    "0385": {
+      "score": 1.240145778069715,
+      "pred_transition": 100,
+      "pred_verse": 510
+    },
+    "0386": {
+      "score": 1.1792976202401777,
+      "pred_transition": 53,
+      "pred_verse": 275
+    },
+    "0387": {
+      "score": 1.2592744868780785,
+      "pred_transition": 91,
+      "pred_verse": 465
+    },
+    "0388": {
+      "score": 1.2894520152293638,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0389": {
+      "score": 1.0126123899017918,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0390": {
+      "score": 1.1165401452195414,
+      "pred_transition": 66,
+      "pred_verse": 340
+    },
+    "0391": {
+      "score": 1.1270658031394536,
+      "pred_transition": 67,
+      "pred_verse": 345
+    },
+    "0392": {
+      "score": 1.3842094036978114,
+      "pred_transition": 45,
+      "pred_verse": 235
+    },
+    "0393": {
+      "score": 1.4164098020814573,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0394": {
+      "score": 1.601394281973854,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0395": {
+      "score": 1.4712067864605893,
+      "pred_transition": 47,
+      "pred_verse": 245
+    },
+    "0396": {
+      "score": 1.1826856029478723,
+      "pred_transition": 105,
+      "pred_verse": 535
+    },
+    "0397": {
+      "score": 1.2126537878498198,
+      "pred_transition": 102,
+      "pred_verse": 520
+    },
+    "0398": {
+      "score": 1.3589314961358046,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0399": {
+      "score": 1.205094141086283,
+      "pred_transition": 101,
+      "pred_verse": 515
+    },
+    "0400": {
+      "score": 1.3672479992129332,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0401": {
+      "score": 1.2499744475325367,
+      "pred_transition": 49,
+      "pred_verse": 255
+    },
+    "0402": {
+      "score": 1.3413794756294015,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0403": {
+      "score": 1.1868144037981134,
+      "pred_transition": 61,
+      "pred_verse": 315
+    },
+    "0404": {
+      "score": 1.2490449075089844,
+      "pred_transition": 92,
+      "pred_verse": 470
+    },
+    "0405": {
+      "score": 1.1113317308300175,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0406": {
+      "score": 1.2495464067658746,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0407": {
+      "score": 1.3715866222783835,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0408": {
+      "score": 1.1331727550717217,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0409": {
+      "score": 1.2055839292858708,
+      "pred_transition": 103,
+      "pred_verse": 525
+    },
+    "0410": {
+      "score": 1.3845806380701846,
+      "pred_transition": 84,
+      "pred_verse": 430
+    },
+    "0411": {
+      "score": 1.0840480266811354,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0412": {
+      "score": 1.135384611158452,
+      "pred_transition": 60,
+      "pred_verse": 310
+    },
+    "0413": {
+      "score": 1.2682797144912754,
+      "pred_transition": 42,
+      "pred_verse": 220
+    },
+    "0414": {
+      "score": 1.0079022316670356,
+      "pred_transition": 45,
+      "pred_verse": 235
+    },
+    "0415": {
+      "score": 1.6788689743705074,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0416": {
+      "score": 1.0506997661008897,
+      "pred_transition": 64,
+      "pred_verse": 330
+    },
+    "0417": {
+      "score": 1.0157076976811015,
+      "pred_transition": 43,
+      "pred_verse": 225
+    },
+    "0418": {
+      "score": 1.1551579890151207,
+      "pred_transition": 65,
+      "pred_verse": 335
+    },
+    "0419": {
+      "score": 1.2291010517666432,
+      "pred_transition": 89,
+      "pred_verse": 455
+    },
+    "0420": {
+      "score": 1.213089062377697,
+      "pred_transition": 85,
+      "pred_verse": 435
+    },
+    "0421": {
+      "score": 1.3329256060451522,
+      "pred_transition": 51,
+      "pred_verse": 265
+    },
+    "0422": {
+      "score": 1.240917630601854,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0423": {
+      "score": 1.049740845669771,
+      "pred_transition": 36,
+      "pred_verse": 190
+    },
+    "0424": {
+      "score": 1.3707072875147297,
+      "pred_transition": 92,
+      "pred_verse": 470
+    },
+    "0425": {
+      "score": 1.2334252604328015,
+      "pred_transition": 96,
+      "pred_verse": 490
+    },
+    "0426": {
+      "score": 1.643888615894099,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0427": {
+      "score": 1.2203075288306566,
+      "pred_transition": 101,
+      "pred_verse": 515
+    },
+    "0428": {
+      "score": 1.366059668094655,
+      "pred_transition": 24,
+      "pred_verse": 130
+    },
+    "0429": {
+      "score": 1.3638097849826587,
+      "pred_transition": 69,
+      "pred_verse": 355
+    },
+    "0430": {
+      "score": 1.2144797606748514,
+      "pred_transition": 99,
+      "pred_verse": 505
+    },
+    "0431": {
+      "score": 1.1713078609187608,
+      "pred_transition": 57,
+      "pred_verse": 295
+    },
+    "0432": {
+      "score": 1.221755584871627,
+      "pred_transition": 30,
+      "pred_verse": 160
+    },
+    "0433": {
+      "score": 1.6890561632189331,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0434": {
+      "score": 1.1169574577525254,
+      "pred_transition": 58,
+      "pred_verse": 300
+    },
+    "0435": {
+      "score": 1.1315834523391992,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0436": {
+      "score": 1.2517794587095472,
+      "pred_transition": 95,
+      "pred_verse": 485
+    },
+    "0437": {
+      "score": 1.1085968654640017,
+      "pred_transition": 44,
+      "pred_verse": 230
+    },
+    "0438": {
+      "score": 1.1960359705966634,
+      "pred_transition": 87,
+      "pred_verse": 445
+    },
+    "0439": {
+      "score": 1.5702601311838325,
+      "pred_transition": 85,
+      "pred_verse": 435
+    },
+    "0440": {
+      "score": 1.133572441875542,
+      "pred_transition": 33,
+      "pred_verse": 175
+    },
+    "0441": {
+      "score": 1.214994703703863,
+      "pred_transition": 33,
+      "pred_verse": 175
+    },
+    "0442": {
+      "score": 1.294902287711862,
+      "pred_transition": 15,
+      "pred_verse": 85
+    },
+    "0443": {
+      "score": 1.3047138509827623,
+      "pred_transition": 57,
+      "pred_verse": 295
+    },
+    "0444": {
+      "score": 1.1395728743179911,
+      "pred_transition": 81,
+      "pred_verse": 415
+    },
+    "0445": {
+      "score": 1.2522168809670222,
+      "pred_transition": 93,
+      "pred_verse": 475
+    },
+    "0446": {
+      "score": 1.2436228943583627,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0447": {
+      "score": 0.9940789499333909,
+      "pred_transition": 40,
+      "pred_verse": 210
+    },
+    "0448": {
+      "score": 1.2447473393594022,
+      "pred_transition": 86,
+      "pred_verse": 440
+    },
+    "0449": {
+      "score": 1.2523572908287357,
+      "pred_transition": 63,
+      "pred_verse": 325
+    },
+    "0450": {
+      "score": 1.2635541136551538,
+      "pred_transition": 104,
+      "pred_verse": 530
+    },
+    "0451": {
+      "score": 1.1847512752059584,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0452": {
+      "score": 1.3156080600826974,
+      "pred_transition": 92,
+      "pred_verse": 470
+    },
+    "0453": {
+      "score": 1.2223625149164703,
+      "pred_transition": 59,
+      "pred_verse": 305
+    },
+    "0454": {
+      "score": 1.1677616947676137,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0455": {
+      "score": 1.3126014847172094,
+      "pred_transition": 52,
+      "pred_verse": 270
+    },
+    "0456": {
+      "score": 1.205094141086283,
+      "pred_transition": 101,
+      "pred_verse": 515
+    },
+    "0457": {
+      "score": 1.031631859545547,
+      "pred_transition": 44,
+      "pred_verse": 230
+    },
+    "0458": {
+      "score": 1.111780895819872,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0459": {
+      "score": 1.3964487474757927,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0460": {
+      "score": 1.1794049653720338,
+      "pred_transition": 47,
+      "pred_verse": 245
+    },
+    "0461": {
+      "score": 1.373749235771131,
+      "pred_transition": 78,
+      "pred_verse": 400
+    },
+    "0462": {
+      "score": 1.2575801260893331,
+      "pred_transition": 77,
+      "pred_verse": 395
+    },
+    "0463": {
+      "score": 1.2377563234523787,
+      "pred_transition": 76,
+      "pred_verse": 390
+    },
+    "0464": {
+      "score": 1.1444103912848875,
+      "pred_transition": 64,
+      "pred_verse": 330
+    },
+    "0465": {
+      "score": 1.2997953521077767,
+      "pred_transition": 37,
+      "pred_verse": 195
+    },
+    "0466": {
+      "score": 1.4719083199078589,
+      "pred_transition": 80,
+      "pred_verse": 410
+    },
+    "0467": {
+      "score": 1.2700298669875534,
+      "pred_transition": 24,
+      "pred_verse": 130
+    },
+    "0468": {
+      "score": 1.5563681369918485,
+      "pred_transition": 38,
+      "pred_verse": 200
+    },
+    "0469": {
+      "score": 1.189341487335233,
+      "pred_transition": 86,
+      "pred_verse": 440
+    },
+    "0470": {
+      "score": 1.0116917980706905,
+      "pred_transition": 69,
+      "pred_verse": 355
+    },
+    "0471": {
+      "score": 1.0272107747303028,
+      "pred_transition": 68,
+      "pred_verse": 350
+    },
+    "0472": {
+      "score": 1.1924407588071873,
+      "pred_transition": 100,
+      "pred_verse": 510
+    },
+    "0473": {
+      "score": 1.311778008448228,
+      "pred_transition": 74,
+      "pred_verse": 380
+    },
+    "0474": {
+      "score": 1.1398405470773167,
+      "pred_transition": 55,
+      "pred_verse": 285
+    },
+    "0475": {
+      "score": 1.650621426578375,
+      "pred_transition": 81,
+      "pred_verse": 415
+    },
+    "0476": {
+      "score": 1.0075965682859642,
+      "pred_transition": 73,
+      "pred_verse": 375
+    },
+    "0477": {
+      "score": 1.2144015429654207,
+      "pred_transition": 56,
+      "pred_verse": 290
+    },
+    "0478": {
+      "score": 0.9974585373640311,
+      "pred_transition": 37,
+      "pred_verse": 195
+    },
+    "0479": {
+      "score": 1.1911935057011982,
+      "pred_transition": 85,
+      "pred_verse": 435
+    }
+  }
+}

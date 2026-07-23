@@ -1,0 +1,14 @@
+{
+  "id": "0229",
+  "split": "test",
+  "label": 0,
+  "case_type": "pure",
+  "contrast": "pure",
+  "block_size": 0,
+  "boundaries": [],
+  "n_verses": 600,
+  "provenance": {
+    "host_source": "genesis",
+    "host_start": 873
+  }
+}

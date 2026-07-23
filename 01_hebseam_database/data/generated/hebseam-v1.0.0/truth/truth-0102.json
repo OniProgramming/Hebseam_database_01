@@ -1,0 +1,20 @@
+{
+  "id": "0102",
+  "split": "train",
+  "label": 1,
+  "case_type": "foreign",
+  "contrast": "psalms",
+  "block_size": 80,
+  "boundaries": [
+    349,
+    429
+  ],
+  "n_verses": 600,
+  "provenance": {
+    "host_source": "genesis",
+    "host_start": 181,
+    "host_length_before_insertion": 520,
+    "insert_source": "psalms",
+    "insert_source_start": 757
+  }
+}

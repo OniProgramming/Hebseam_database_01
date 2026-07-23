@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hebseam-methods"
+version = "1.0.0"
+description = "Classical, neural, Transformer, and proposed methods for HebSeam"
+requires-python = ">=3.10"
+dependencies = [
+  "numpy>=1.26",
+  "scipy>=1.11",
+  "scikit-learn>=1.4",
+  "ruptures>=1.1.9",
+  "sentence-transformers>=3.0",
+  "matplotlib>=3.8",
+  "transformers>=4.45",
+  "torch>=2.2"
+]

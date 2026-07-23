@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+title: "HebSeam: A Controlled Benchmark Generator for Ancient Hebrew Compositional-Boundary Detection"
+message: "Please cite the accompanying paper and this software release."
+type: software
+authors:
+  - family-names: Onisim
+    given-names: Constantin
+version: 1.0.0
+date-released: 2026-07-18
+license: MIT
+repository-code: "REPLACE_WITH_PUBLIC_REPOSITORY_URL"

@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HebSeam verse record",
+  "type": "object",
+  "required": ["osis", "chapter", "verse", "source", "text", "tokens"],
+  "properties": {
+    "osis": {"type": "string"}, "chapter": {"type": "integer"}, "verse": {"type": "integer"},
+    "source": {"type": "string"}, "text": {"type": "string"},
+    "tokens": {"type": "array", "items": {"type": "object"}}
+  }
+}

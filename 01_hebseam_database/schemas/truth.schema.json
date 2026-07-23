@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "HebSeam truth record",
+  "type": "object",
+  "required": ["id", "split", "label", "case_type", "contrast", "block_size", "boundaries", "n_verses", "provenance"],
+  "properties": {
+    "id": {"type": "string"},
+    "split": {"enum": ["train", "test"]},
+    "label": {"enum": [0, 1]},
+    "case_type": {"enum": ["foreign", "pure", "sham"]},
+    "contrast": {"type": "string"},
+    "block_size": {"type": "integer", "minimum": 0},
+    "boundaries": {"type": "array", "items": {"type": "integer", "minimum": 0}, "maxItems": 2},
+    "n_verses": {"type": "integer", "minimum": 1},
+    "provenance": {"type": "object"}
+  },
+  "additionalProperties": false
+}

@@ -1,0 +1,27 @@
+benchmark:
+  name: HebSeam-Controlled
+  version: 1.0.0
+  seed: 20260706
+  final_verses: 600
+  insert_sizes: [20, 40, 80, 160]
+  contrasts: [exodus, psalms, mishnah]
+  repetitions_per_cell: 20
+  pure_cases: 120
+  sham_cases: 120
+  interior_margin: 100
+
+splits:
+  genesis_train: [0, 760]
+  genesis_test: [773, 1533]
+  insertion_source_policy: half_split
+
+preprocessing:
+  vocalization: consonantal
+  split_prefixes: true
+  mishnah_target_tokens_per_pseudo_verse: 21
+
+output:
+  include_jsonl: true
+  include_plain_text: true
+  include_truth: true
+  include_provenance: true

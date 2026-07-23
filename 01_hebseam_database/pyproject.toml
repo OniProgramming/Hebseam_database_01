@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=69", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hebseam-benchmark"
+version = "1.0.0"
+description = "Reproducible controlled benchmark generator for Ancient Hebrew compositional-boundary detection"
+requires-python = ">=3.10"
+dependencies = ["numpy>=1.26", "PyYAML>=6.0", "jsonschema>=4.22"]
+
+[project.scripts]
+hebseam-build = "hebseam_benchmark.build_benchmark:main"
+hebseam-validate = "hebseam_benchmark.validate_benchmark:main"
+hebseam-fetch = "hebseam_benchmark.fetch_data:main"

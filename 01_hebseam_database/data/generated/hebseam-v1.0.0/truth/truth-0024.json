@@ -1,0 +1,20 @@
+{
+  "id": "0024",
+  "split": "test",
+  "label": 1,
+  "case_type": "foreign",
+  "contrast": "exodus",
+  "block_size": 40,
+  "boundaries": [
+    397,
+    437
+  ],
+  "n_verses": 600,
+  "provenance": {
+    "host_source": "genesis",
+    "host_start": 815,
+    "host_length_before_insertion": 560,
+    "insert_source": "exodus",
+    "insert_source_start": 657
+  }
+}

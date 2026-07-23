@@ -1,0 +1,20 @@
+{
+  "id": "0219",
+  "split": "train",
+  "label": 1,
+  "case_type": "foreign",
+  "contrast": "mishnah",
+  "block_size": 80,
+  "boundaries": [
+    348,
+    428
+  ],
+  "n_verses": 600,
+  "provenance": {
+    "host_source": "genesis",
+    "host_start": 228,
+    "host_length_before_insertion": 520,
+    "insert_source": "mishnah",
+    "insert_source_start": 348
+  }
+}
